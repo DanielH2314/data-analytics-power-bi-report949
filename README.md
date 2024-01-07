@@ -1,12 +1,12 @@
 # Data Analytics Power BI Report
-Milestone 2 Importing and transforming the data
-Milestone 3 Creating the data model
-Milestone 5 Customer Detail Page
-Milestone 6 Executive Summary Page
-Milestone 7 Product Detail Page
-MMilestone 8 Stores Map Page
-Milestone 9 Cross-filtering and Navigation
-Milestone 10 SQL Queries
+- Milestone 2 Importing and transforming the data
+- Milestone 3 Creating the data model
+- Milestone 5 Customer Detail Page
+- Milestone 6 Executive Summary Page
+- Milestone 7 Product Detail Page
+- Milestone 8 Stores Map Page
+- Milestone 9 Cross-filtering and Navigation
+- Milestone 10 SQL Queries
 
 This was my final project for the AI Core Data Analytics Coure, in which I created a report in power BI with the following brief:
 "You have recently been approached by a medium-sized international retailer who is keen on elevating their business intelligence practices. With operations spanning across different regions, they've accumulated large amounts of sales from disparate sources over the years.
